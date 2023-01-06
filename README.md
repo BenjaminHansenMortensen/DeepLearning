@@ -24,13 +24,28 @@ modern deep learning packages. </g>
   - [x] Convolutional neural networks
     - [x] Object Localization
     - [x] Object Detection (Multiple)
-- Project 3
-  - [x] Recurrent neural networks 
-    - [x] LSTM'S 
-    - [x] Text recognition and analysis 
-    - [x] Beam Search
-
+- Project 3: Recurrent neural networks
+  - [x] 2.1: Word Embeddings
+    - [x] Create Datasets With Before Word Context
+    - [x] Define Three MLP Models
+    - [x] Train Word Embeddings With The Best Model
+    - [x] Calculate Cosine Similarity For Word Similarity
+    - [x] Display and Storing of Similar Words (embedd.tsv)
+  - [x] 2.2: RNN vs MLP Comparison
+    - [x] Create Datasets With Between Context For Conjugates
+    - [x] Define Two MLP Models and Two RNN Models
+    - [x] Train Models Selecting The Best
+    - [x] Compare Time Spent Training
+  - [x] 2.3: Text Generator
+    - [x] Load New Dataset With Before Word Context
+    - [x] Define Two RNN Models
+    - [x] Train The Models Selecting The Best
+    - [x] Beam Search Algorithm For Word Selection
+    - [x] Text Generation Examples
+  
 
 So after this course we should have a basic understanding of the *theories* and *ideas* behind 
 various deep learning techniques as well as skills to *use* deep learning in practice using modern
 programming frameworks.
+
+OBS: All training is done with very limited resources, thus the model accuracy is not the focus here
