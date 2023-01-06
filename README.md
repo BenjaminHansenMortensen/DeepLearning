@@ -20,11 +20,16 @@ modern deep learning packages. </g>
     - [x] Implemented back - propagation by hand
   - [x] Improving learning by optimisation and regularisation
     - [x] Manual implementation of L1 & L2 regularisation
-- Project 2 
-  - [x] Convolutional neural networks
-    - [x] Object Localization
-    - [x] Object Detection (Multiple)
-- Project 3: Recurrent neural networks
+- Project 2 Convolution Neural Networks
+  - [x] Object Localization
+    - [x] Familiarization With The Training Data
+    - [x] Three Variation of LeNet05 Architecture
+    - [x] CustomLoss Function Implementation
+    - [x] Defining Intersection over Union & Bounding Box
+    - [x] Best Model Results and Showcase
+  - [x] Object Detection (Multiple Localizations)
+    - TODO
+- Project 3: Recurrent Neural Networks
   - [x] 2.1: Word Embeddings
     - [x] Create Datasets With Before Word Context
     - [x] Define Three MLP Models
