@@ -16,12 +16,12 @@ OBS: All training is done with very limited resources, thus the model accuracy i
 
 ##### The main goals of this course is: 
 
-- Project 1
-  - [x] Feedforward neural networks
-  - [x] Learning with stochastic gradient descent, back-propagation
-    - [x] Implemented back - propagation by hand
-  - [x] Improving learning by optimisation and regularisation
-    - [x] Manual implementation of L1 & L2 regularisation
+- Project 1: Implementation of Deep Learning from Scratch
+  - [x] Feedforward Neural Networks
+  - [x] Learning With Stochastic Gradient Descent, back-propagation
+    - [x] Implemented Vectorized back-propagation from Scratch
+  - [x] Improving Learning by Optimisation and Regularisation
+    - [x] Implementation of L1 & L2 Regularisation from Scratch
 - Project 2 Convolution Neural Networks
   - [x] Object Localization
     - [x] Normalization and Familiarization With The Training Data
