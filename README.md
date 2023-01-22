@@ -11,7 +11,9 @@ Furthermore, the course includes implementation of neural
 components and as well as applying deep learning on real-world data sets using 
 modern deep learning packages. </g>
 
-OBS: All training is done with very limited resources, thus the model accuracy is not the focus here
+OBS: All training is done with very limited resources, thus the model accuracy is not the focus here.
+We also do NOT claim ownership of any code or files in this repo. And is only ment as a hobby project in
+correlation with a deep learning course (INF265) taken at the University of Bergen (UiB) the spring of 2022.
 
 
 ##### The main goals of this course is: 
