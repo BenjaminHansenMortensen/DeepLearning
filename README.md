@@ -55,7 +55,6 @@ correlation with a deep learning course (INF265) taken at the University of Berg
     - [x] Train The Models Selecting The Best
     - [x] Beam Search Algorithm For Word Selection
     - [x] Text Generation Examples
-  
 
 So after this course we should have a basic understanding of the *theories* and *ideas* behind 
 various deep learning techniques as well as skills to *use* deep learning in practice using modern
