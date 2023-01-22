@@ -1,4 +1,4 @@
-# INF265 - Deep Learning 
+# Deep Learning Projects
 ### *By Vegard Berge & Benjamin Hansen Mortensen*
 ##### Spring of 2022
 ##
@@ -11,6 +11,8 @@ Furthermore, the course includes implementation of neural
 components and as well as applying deep learning on real-world data sets using 
 modern deep learning packages. </g>
 
+OBS: All training is done with very limited resources, thus the model accuracy is not the focus here
+
 
 ##### The main goals of this course is: 
 
@@ -22,13 +24,17 @@ modern deep learning packages. </g>
     - [x] Manual implementation of L1 & L2 regularisation
 - Project 2 Convolution Neural Networks
   - [x] Object Localization
-    - [x] Familiarization With The Training Data
-    - [x] Three Variation of LeNet05 Architecture
+    - [x] Normalization and Familiarization With The Training Data
+    - [x] Three Variations of The LeNet5 Architecture
     - [x] CustomLoss Function Implementation
-    - [x] Defining Intersection over Union & Bounding Box
+    - [x] Defining Intersection over Union and Bounding Box
     - [x] Best Model Results and Showcase
   - [x] Object Detection (Multiple Localizations)
-    - TODO
+    - [x] Normalization and Familiarization with the Training Data
+    - [x] Three Convolutional Architectures based of LeNet5
+    - [x] Custom loss function
+    - [x] Drawing The Bounding Boxes
+    - [x] Best Model Results and Showcase
 - Project 3: Recurrent Neural Networks
   - [x] 2.1: Word Embeddings
     - [x] Create Datasets With Before Word Context
@@ -52,5 +58,3 @@ modern deep learning packages. </g>
 So after this course we should have a basic understanding of the *theories* and *ideas* behind 
 various deep learning techniques as well as skills to *use* deep learning in practice using modern
 programming frameworks.
-
-OBS: All training is done with very limited resources, thus the model accuracy is not the focus here
