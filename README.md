@@ -36,18 +36,18 @@ OBS: All training is done with very limited resources, thus the model accuracy i
     - [x] Drawing The Bounding Boxes
     - [x] Best Model Results and Showcase
 - Project 3: Recurrent Neural Networks
-  - [x] 2.1: Word Embeddings
+  - [x] Word Embeddings
     - [x] Create Datasets With Before Word Context
     - [x] Define Three MLP Models
-    - [x] Train Word Embeddings With The Best Model
+    - [x] Train Word Embeddings Selecting The Best Model
     - [x] Calculate Cosine Similarity For Word Similarity
     - [x] Display and Storing of Similar Words (embedd.tsv)
-  - [x] 2.2: RNN vs MLP Comparison
+  - [x] RNN vs MLP Comparison
     - [x] Create Datasets With Between Context For Conjugates
     - [x] Define Two MLP Models and Two RNN Models
     - [x] Train Models Selecting The Best
     - [x] Compare Time Spent Training
-  - [x] 2.3: Text Generator
+  - [x] Text Generation
     - [x] Load New Dataset With Before Word Context
     - [x] Define Two RNN Models
     - [x] Train The Models Selecting The Best
